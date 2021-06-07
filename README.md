@@ -28,9 +28,10 @@
 ## 6. Buat file baru dengan nama about.php, beserta hasilnya.
 ![6](https://user-images.githubusercontent.com/56240533/121033472-6d8fc700-c7d6-11eb-837d-5719f90d289f.png)
 
-# =============================TUGAS PRAKTIKUM 9=========================================
+# =============================TUGAS========================================
 
-## Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
+### Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
+
 
 
 
